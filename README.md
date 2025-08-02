@@ -20,7 +20,7 @@ A simple, offline, password-protected mental health diary bot that allows users 
 
 2. Run the bot:
 
-Copy code
+Copy code and type: 
 python diary-bot.py
 
 3. Follow CLI prompts:
@@ -37,3 +37,4 @@ mental_health_log.txt – Stores mood and diary entries
 password.txt – Stores hashed password securely
 README.md – Project documentation
 .gitignore – Avoids committing sensitive data
+
