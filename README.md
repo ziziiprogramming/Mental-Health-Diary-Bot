@@ -14,7 +14,6 @@ A simple, offline, password-protected mental health diary bot that allows users 
 ## How to Run
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/ziziiprogramming/Mental-Health-Diary-Bot.git
    cd Mental-Health-Diary-Bot
 
@@ -25,9 +24,9 @@ python diary-bot.py
 
 3. Follow CLI prompts:
 
-1. Set a password (only once)
-2. Enter your name, mood, and notes
-3. View entries or check mood stats
+- Set a password (only once)
+- Enter your name, mood, and notes
+- View entries or check mood stats
 
 
 4. Files:
@@ -37,4 +36,5 @@ mental_health_log.txt – Stores mood and diary entries
 password.txt – Stores hashed password securely
 README.md – Project documentation
 .gitignore – Avoids committing sensitive data
+
 
